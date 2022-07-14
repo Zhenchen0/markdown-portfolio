@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![this](/C:/Users/陈真/Desktop/view.jpg "view" )
